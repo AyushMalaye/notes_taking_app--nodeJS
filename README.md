@@ -1,8 +1,10 @@
-# notes_taking_app--nodeJS
-Add note -> Requires user to enter Title and Body of the note and adds the note to our databse (json file)
+# notes taking app 
+notes taking app which takes command from the terminal and performs the following functions:
 
-Remove note -> Requires user to enter the Title of the note they want to remove and removes that note
+Add note : Requires user to enter Title and Body of the note and adds the note to our databse (json file)
 
-List notes ->Lists the title of all the notes present
+Remove note :  Requires user to enter the Title of the note they want to remove and removes that note
 
-Read note -> Requires user to enter the title of the note they want to read and displays the body of that note on the terminal
+List notes  : Lists the title of all the notes present
+
+Read note : Requires user to enter the title of the note they want to read and displays the body of that note on the terminal
